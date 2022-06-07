@@ -1,0 +1,4 @@
+#Tue Jun 07 16:00:34 ICT 2022
+base.0=D\:\\Unity\\Flappy Bird\\Flappy Bird\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
